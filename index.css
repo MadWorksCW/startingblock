@@ -95,7 +95,7 @@ ul.green li {
 
 @media screen and (max-width: 480px) {
   .bg {
-    height: 200px;
+    height: 240px;
     padding-top: 0px;
   }
   .bg h2 {
